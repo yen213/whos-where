@@ -1,0 +1,45 @@
+:root {
+  --background-color: #2f2f2f;
+  --text-color: white;
+}
+
+html {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.sign-in-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.location {
+  font-size: 1rem;
+}
+
+.avatar {
+  padding: 0.325rem;
+  margin: 2rem 0;
+}
+
+.container {
+  position: absolute;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,9 @@
+{
+  "short_name": "Who's Peeing",
+  "name": "Who's Peeing",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
