@@ -1,3 +1,3 @@
 # Description
 
-Shows a list of locations in my house and where each of my housemates are currently. Updates a person's location in real-time on the webpage, without needing to refresh the page.
+Small application used by my housemates and I to track things such as chores and tasks.
